@@ -1,2 +1,2 @@
-# Baby-Game
-baby racing game
+# Baby-Racing-Game
+Its a baby racing game in which babies have a race.
